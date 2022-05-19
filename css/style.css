@@ -79,7 +79,7 @@ HTML{
 #home::before{
     content: "";
     position: absolute;
-    background: url('/ProjectFood/images/bg/bg3.jpg') no-repeat center center/cover;
+    background: url('/images/bg/bg3.jpg') no-repeat center center/cover;
     height: 450px;
     top: 0px;
     left: 0px;
@@ -129,7 +129,7 @@ HTML{
 #client-section::before{
     content: "";
     position: absolute;
-    background: url('/ProjectFood/images/bg/bg2.jpg') no-repeat center center/cover;
+    background: url('/images/bg/bg2.jpg') no-repeat center center/cover;
     width: 100%;
     height: 100%;
     z-index: -1;
@@ -162,7 +162,7 @@ HTML{
     height: 100%;
     z-index: -1;
     opacity: 0.7;
-    background: url('/ProjectFood/images/others/contact.jpg') no-repeat center center/cover;
+    background: url('/images/others/contact.jpg') no-repeat center center/cover;
 }
 #contact-box{
     display: flex;
